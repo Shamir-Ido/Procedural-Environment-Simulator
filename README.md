@@ -39,12 +39,10 @@ A Java-based procedural environment simulator that demonstrates dynamic terrain 
 ---
 
 
-
-Key Classes:\n
-GameObject – Base class for all objects in the world. \n
+Key Classes:
+GameObject – Base class for all objects in the world.
 Block – Represents terrain blocks with collision physics.
 Terrain – Generates procedural terrain dynamically.
 Transition – Animates object properties over time.
 Sun/Night/Sky – Handles dynamic lighting and sky appearance.
 Chunk - a class responsible for creating and handling the game terrain chunks, such that only the relevant chunks are loaded at a given time.
-
