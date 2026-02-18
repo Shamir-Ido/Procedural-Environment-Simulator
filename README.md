@@ -38,6 +38,15 @@ A Java-based procedural environment simulator that demonstrates dynamic terrain 
 
 ---
 
+pepse/
+
+├─ world.pepse/          # Core environment and game objects
+├─ daynight.world.pepse/ # Day-night cycle management
+├─ trees.world.pepse/    # Procedural tree and flora generation
+├─ util.pepse/           # Utility classes (noise generators, color suppliers, etc.)
+└─ PepseGameManager.java # Main entry point and game manager
+
+
 Key Classes:
 GameObject – Base class for all objects in the world.
 Block – Represents terrain blocks with collision physics.
