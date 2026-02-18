@@ -1,4 +1,6 @@
 # Procedural-Environment-Simulator
+<img width="1776" height="995" alt="image" src="https://github.com/user-attachments/assets/f3f2cd2c-8cb4-4117-b1fb-f2d1de0f1efe" />
+
 A Java-based procedural environment simulator that demonstrates dynamic terrain generation, day-night cycles, and interactive environment objects. It is designed as a modular engine for experimenting with game mechanics and procedural world generation.
 
 ---
